@@ -20,7 +20,7 @@ If you have any questions or need further assistance, don't hesitate to reach ou
 Your support makes a big difference, and we appreciate it immensely. Thank you for helping keep OpenSettings Community a free and open-source tool for everyone!
 
 ## Licensing Information
-OpenSettings is available under the **Community License**, which is **free and open-source**. Other licenses offer additional features and benefits. Please review the [license details](https://opensettings.net/license) for more information on the different tiers.
+OpenSettings is available under the **Community License**, which is **free and open-source**. Other licenses offer additional features and benefits. Please review the [license details](https://opensettings.net/license) for more information.
 
 ---
 
