@@ -15,7 +15,7 @@ Review the different sponsorship tiers and select the one that suits you best. E
 ### 3. Complete the Sponsorship Process
 Once you completed the payment, you'll receive an acknowledgment of your sponsorship. We'll review the details and contact you if any information or content is missing. If everything is in order, we'll finalize your sponsorship and send you any perks associated with your tier.
 
-If you have any questions or need further assistance, don't hesitate to reach out to us at [support@opensettings.net](mailto:sponsorship@opensettings.net).
+If you have any questions or need further assistance, don't hesitate to reach out to us at [sponsorship@opensettings.net](mailto:sponsorship@opensettings.net).
 
 Your support makes a big difference, and we appreciate it immensely. Thank you for helping keep OpenSettings Community a free and open-source tool for everyone!
 
