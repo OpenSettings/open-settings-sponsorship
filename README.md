@@ -13,7 +13,7 @@ Go to our [https://opensettings.net/become-a-sponsor](https://opensettings.net/b
 Review the different sponsorship tiers and select the one that suits you best. Each tier offers different benefits, so feel free to choose according to your needs.
 
 ### 3. Complete the Sponsorship Process
-After selecting your tier, you’ll be asked to fill out a simple form to complete the process. Once submitted, you'll receive an acknowledgment of your sponsorship. We'll review the details and contact you if any information or content is missing. If everything is in order, we'll finalize your sponsorship and send you any perks associated with your tier.
+Once you completed the payment, you'll receive an acknowledgment of your sponsorship. We'll review the details and contact you if any information or content is missing. If everything is in order, we'll finalize your sponsorship and send you any perks associated with your tier.
 
 If you have any questions or need further assistance, don't hesitate to reach out to us at [support@opensettings.net](mailto:support@opensettings.net).
 
