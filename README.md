@@ -2,7 +2,7 @@
 
 Welcome to the OpenSettings Sponsorship page! 😍
 
-We are grateful that you are interested in supporting OpenSettings! Your sponsorship helps to maintain and grow the project.
+We are grateful that you are interested in supporting [OpenSettings](https://github.com/OpenSettings/open-settings)! Your sponsorship helps to maintain and grow the project.
 
 ## To become a sponsor, follow these simple steps:
 
@@ -19,6 +19,8 @@ If you have any questions or need further assistance, don't hesitate to reach ou
 
 Your support makes a big difference, and we appreciate it immensely. Thank you for helping keep OpenSettings Community a free and open-source tool for everyone!
 
----
-
 We appreciate your support!
+
+<br>
+
+✨ *OpenSettings makes configuration management simple, powerful, and flexible!* 🚀
