@@ -1,4 +1,4 @@
-# OpenSettings Sponsorship ❤️
+# <img src="logo/open-settings-logo.png" alt="Logo" width="24"/> OpenSettings Sponsorship ❤️
 
 Welcome to the OpenSettings Sponsorship page! 😍
 
