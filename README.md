@@ -23,4 +23,4 @@ We appreciate your support!
 
 <br>
 
-✨ *OpenSettings makes configuration management simple, powerful, and flexible!* 🚀
+✨ *OpenSettings makes settings management simple, powerful, and flexible!* 🚀
